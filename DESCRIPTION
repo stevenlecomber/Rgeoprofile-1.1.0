@@ -1,7 +1,7 @@
 Package: Rgeoprofile
 Type: Package
 Title: Generates geograpic profiles from point pattern data
-Version: 1.1
+Version: 1.1.0
 Date: 2013-06-13
 Author: Mark Stevenson and Robert Verity (Queen Mary University of London)
 Maintainer: Mark Stevenson <m.stevenson@qmul.ac.uk>
