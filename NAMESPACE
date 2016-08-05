@@ -1,2 +1,0 @@
-export(LoadData,Contours,CreateMaps, drootinvgamma,CreateRaster,GraphicParameters,ModelParameters,RunMCMC,PlotGP,loglike,reporthitscores,ThinandAnalyse)
-import(RgoogleMaps,rgdal,ggplot2,grDevices,coda)
