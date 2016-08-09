@@ -5,8 +5,8 @@ bibentry("Manual",
          organization = "Queen Mary University of London",
          address      = "London, England",
          year   = version$year,
-         note   = "Version 1.0",
-         url    = "http://evolve.sbcs.qmul.ac.uk/lecomber/sample-page/geographic-profiling/",
+         note   = "Version 1.1.0",
+         url    = "https://github.com/stevenlecomber",
          
          mheader = "To cite Rgeoprofile in publications use:",
          
