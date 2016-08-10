@@ -26,8 +26,8 @@ rasterImage(MyMap2$myTile,MyMap2$BBOX$ll[2],MyMap2$BBOX$ll[1],MyMap2$BBOX$ur[2],
 hitscoreraster = CreateRaster(1-hitscoremat,levels,transp)
 rasterImage(hitscoreraster,xmin,ymin,xmax,ymax)
 Contours(xvec,yvec,matrix=1-hitscoremat,levels)
-points(datax,datay,pch=20,cex=0.8,col=pointcol)
-if(length(sources) >1 ){points(sourcex,sourcey,pch=20,cex=0.9,col="blue")}
+points(datax,datay,pch=16,cex=0.8,col="red")
+if(length(sources) >1 ){points(sourcex,sourcey,pch=15,cex=0.9,col="blue")}
 
 if (class(Window)=="character") {
 	if (Window=="ZOOM") {
@@ -49,7 +49,7 @@ rasterImage(MyMap2$myTile,MyMap2$BBOX$ll[2],MyMap2$BBOX$ll[1],MyMap2$BBOX$ur[2],
 hitscoreraster = CreateRaster(1-hitscoremat,levels,transp)
 rasterImage(hitscoreraster,xmin,ymin,xmax,ymax)
 Contours(xvec,yvec,matrix=1-hitscoremat,levels)
-points(datax,datay,pch=20,cex=0.8,col=pointcol)
+points(datax,datay,pch=16,cex=0.8,col="red")
 if(length(sources) >1 ){points(sourcex,sourcey,pch=15,cex=0.9,col="blue")}
 
 	}	#if zoom
