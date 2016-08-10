@@ -7,6 +7,7 @@ In criminology, the most commonly used model of GP is the Criminal Geographic Ta
 
 The package here extends this model to estimate source locations of invasions directly from spatial point pattern data without the need to specify dispersal parameters, as in Verity et al. (2014). This model is currently in review in a paper in Diversity and Distributions.
 
+
 Selected papers from my research group:
 
 Faulkner SC, Stevenson MD, Verity R et al. (2015) . Using geographic profiling to locate elusive nocturnal animals: a case study with spectral tarsiers.Journal of Zoology vol. 295, (4) 261-268.
