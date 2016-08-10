@@ -60,7 +60,7 @@ screen(2)
 par(mar=c(0.1,0,0,0))
 plot(1:10,1:10, type="n", axes=F, xlab="", ylab="")
 leg.text<- c("Sigma = ", "Tau = ")
-legend(1,7.5,c("Cases","Sources"),pch=c(20,15),bty="n",cex=c(0.6),col=c(1,4)) 
+legend(1,7.5,c("Cases","Sources"),pch=c(16,15),bty="n",cex=c(0.6),col=c("red","blue")) 
 
 lengthbox<-4/(nring+1)
 
