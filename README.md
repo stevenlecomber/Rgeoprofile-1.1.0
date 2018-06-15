@@ -1,5 +1,5 @@
-# Rgeoprofile-1.1.0
-Implementation of the Dirichlet Process Mixture (DPM) model of geographic profiling described in Verity et al. (2014). Note: for a new version of Rgeoprofile (2.0.0), introduced in Faulkner et al (Diversity and distributions, in press), use 'install_github(“bob verity/RgeoProfile”, ref=“version2.0.0”)'. For the development version of the model, see https://github.com/bobverity/Rgeoprofile.
+# Important
+This version has been superceded by version 2.1.0. For the latest version of the model, complete with full help files, data and worked examples, see https://github.com/bobverity/Rgeoprofile.
 
 # Introduction to geographic profiling
 Geographic profiling (GP) was originally developed as an analytical tool in criminology, where it uses the spatial locations of linked crimes (for example murder, rape or arson) to create a surface of search priority that is overlaid on a map of the study area to produce a geoprofile, which in turn allows the police to prioritise investigations by systematically checking suspects associated with locations in descending order of the height on the geoprofile (Rossmo 2000). The technique has been extremely successful in this field, and is now widely used by police forces and investigative agencies around the world. 
@@ -11,7 +11,11 @@ The package here extends this model to estimate source locations of invasions di
 
 # Selected papers from my research group:
 
+Faulkner SC, Stevens MCA, Romañach SS, Lindsey PA, Le Comber SC. (2018). A spatial approach to combatting wildlife crime. Conservation Biology 32, 685-693.
+
 Faulkner SC, Verity R, Roberts D, Sugoto SR, Robertson PA, Stevenson MD and Le Comber SC (in press). Using geographic profiling to compare the value of sightings vs trap data in a biological invasion. Diversity and Distributions, in press.
+
+Papini A, Rossmo DK, Le Comber SC, Verity R (2017). The use of jackknifing for the evaluation of geographic profiling reliability. Ecological Informatics 38, 76-81.
 
 Faulkner SC, Stevenson MD, Verity R et al. (2015). Using geographic profiling to locate elusive nocturnal animals: a case study with spectral tarsiers.Journal of Zoology vol. 295, (4) 261-268.
 10.1111/jzo.12203
