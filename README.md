@@ -1,4 +1,4 @@
-# Important
+# Important: version 2.1.0 now available at https://github.com/bobverity/Rgeoprofile
 This version has been superceded by version 2.1.0. For the latest version of the model, complete with full help files, data and worked examples, see https://github.com/bobverity/Rgeoprofile.
 
 # Introduction to geographic profiling
